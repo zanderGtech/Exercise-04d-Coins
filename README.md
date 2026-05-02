@@ -1,16 +1,13 @@
-# Exercise-04c-Enemies
+# Project 4
+5/2/2026
 
+Description
+You said we could use exercise 4D so with time constraints and with the hopes of getting at least a passing grade i used exercise 4d
 ## Implementation
+Multiple enimies and multiple levels
 
 ## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
-
+exercise 4d
 ## Future Development
 
 ## Created by
